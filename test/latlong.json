@@ -1,0 +1,59 @@
+{
+  "results" : [
+    {
+      "address_components" : [
+        {
+          "long_name" : "27613",
+          "short_name" : "27613",
+          "types" : [ "postal_code" ]
+        },
+        {
+          "long_name" : "Raleigh",
+          "short_name" : "Raleigh",
+          "types" : [ "locality", "political" ]
+        },
+        {
+          "long_name" : "North Carolina",
+          "short_name" : "NC",
+          "types" : [ "administrative_area_level_1", "political" ]
+        },
+        {
+          "long_name" : "United States",
+          "short_name" : "US",
+          "types" : [ "country", "political" ]
+        }
+      ],
+      "formatted_address" : "Raleigh, NC 27613, USA",
+      "geometry" : {
+        "bounds" : {
+          "northeast" : {
+            "lat" : 36.0123059,
+            "lng" : -78.67337690000001
+          },
+          "southwest" : {
+            "lat" : 35.858917,
+            "lng" : -78.759303
+          }
+        },
+        "location" : {
+          "lat" : 35.9049831,
+          "lng" : -78.70882949999999
+        },
+        "location_type" : "APPROXIMATE",
+        "viewport" : {
+          "northeast" : {
+            "lat" : 36.0123059,
+            "lng" : -78.67337690000001
+          },
+          "southwest" : {
+            "lat" : 35.858917,
+            "lng" : -78.759303
+          }
+        }
+      },
+      "place_id" : "ChIJNeX2Ucb5rIkRWzoIC6ZWusA",
+      "types" : [ "postal_code" ]
+    }
+  ],
+  "status" : "OK"
+}

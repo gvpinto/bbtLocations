@@ -1,0 +1,230 @@
+{
+  "html_attributions" : [],
+  "result" : {
+    "address_components" : [
+      {
+        "long_name" : "8501",
+        "short_name" : "8501",
+        "types" : [ "street_number" ]
+      },
+      {
+        "long_name" : "Brier Creek Parkway",
+        "short_name" : "Brier Creek Pkwy",
+        "types" : [ "route" ]
+      },
+      {
+        "long_name" : "Umstead",
+        "short_name" : "Umstead",
+        "types" : [ "neighborhood", "political" ]
+      },
+      {
+        "long_name" : "Raleigh",
+        "short_name" : "Raleigh",
+        "types" : [ "locality", "political" ]
+      },
+      {
+        "long_name" : "Cedar Fork",
+        "short_name" : "Cedar Fork",
+        "types" : [ "administrative_area_level_3", "political" ]
+      },
+      {
+        "long_name" : "Wake County",
+        "short_name" : "Wake County",
+        "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+        "long_name" : "North Carolina",
+        "short_name" : "NC",
+        "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+        "long_name" : "United States",
+        "short_name" : "US",
+        "types" : [ "country", "political" ]
+      },
+      {
+        "long_name" : "27617",
+        "short_name" : "27617",
+        "types" : [ "postal_code" ]
+      }
+    ],
+    "adr_address" : "\u003cspan class=\"street-address\"\u003e8501 Brier Creek Pkwy\u003c/span\u003e, \u003cspan class=\"locality\"\u003eRaleigh\u003c/span\u003e, \u003cspan class=\"region\"\u003eNC\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e27617\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eUSA\u003c/span\u003e",
+    "formatted_address" : "8501 Brier Creek Pkwy, Raleigh, NC 27617, USA",
+    "formatted_phone_number" : "(919) 313-1890",
+    "geometry" : {
+      "location" : {
+        "lat" : 35.905511,
+        "lng" : -78.7851986
+      },
+      "viewport" : {
+        "northeast" : {
+          "lat" : 35.90558059999999,
+          "lng" : -78.78467915000002
+        },
+        "southwest" : {
+          "lat" : 35.90530219999999,
+          "lng" : -78.78537175000001
+        }
+      }
+    },
+    "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+    "id" : "84d02d8ecec27ed27dbcbabd5e5feea42ef8981b",
+    "international_phone_number" : "+1 919-313-1890",
+    "name" : "BB&T",
+    "opening_hours" : {
+      "open_now" : false,
+      "periods" : [
+        {
+          "close" : {
+            "day" : 1,
+            "time" : "1700"
+          },
+          "open" : {
+            "day" : 1,
+            "time" : "0900"
+          }
+        },
+        {
+          "close" : {
+            "day" : 2,
+            "time" : "1700"
+          },
+          "open" : {
+            "day" : 2,
+            "time" : "0900"
+          }
+        },
+        {
+          "close" : {
+            "day" : 3,
+            "time" : "1700"
+          },
+          "open" : {
+            "day" : 3,
+            "time" : "0900"
+          }
+        },
+        {
+          "close" : {
+            "day" : 4,
+            "time" : "1700"
+          },
+          "open" : {
+            "day" : 4,
+            "time" : "0900"
+          }
+        },
+        {
+          "close" : {
+            "day" : 5,
+            "time" : "1800"
+          },
+          "open" : {
+            "day" : 5,
+            "time" : "0900"
+          }
+        },
+        {
+          "close" : {
+            "day" : 6,
+            "time" : "1200"
+          },
+          "open" : {
+            "day" : 6,
+            "time" : "0900"
+          }
+        }
+      ],
+      "weekday_text" : [
+        "Monday: 9:00 AM – 5:00 PM",
+        "Tuesday: 9:00 AM – 5:00 PM",
+        "Wednesday: 9:00 AM – 5:00 PM",
+        "Thursday: 9:00 AM – 5:00 PM",
+        "Friday: 9:00 AM – 6:00 PM",
+        "Saturday: 9:00 AM – 12:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "photos" : [
+      {
+        "height" : 473,
+        "html_attributions" : [
+          "\u003ca href=\"https://maps.google.com/maps/contrib/102157629572758417775/photos\"\u003eBB&amp;T\u003c/a\u003e"
+        ],
+        "photo_reference" : "CoQBdwAAADEf6L1vhoZiZJz_k4mA3jHopLsb-SMkLSSsTM8oHeOJUlR42qyAKclQ_A6oN2mVMZp9L3F3YhL7XIV_azvOQvsiWuW93msUWYoJ1Codyf1V6QhCpQF7iX2iUsfakOWqYXwtxqiiSjWa0y4drcerkenqdcb-O4I0qZimsu4oWF93EhDboZoajpdOXI-8XYKany11GhR3q0Ci9bahL1eO5lYoNo1TDuzd9Q",
+        "width" : 473
+      }
+    ],
+    "place_id" : "ChIJBYLA6376rIkRB7fHO5f6j8M",
+    "reference" : "CmRSAAAA2QgCmQZhtB3yIm_ZhpMZABuJVTbfoawNEDuF1sF84mVds-LAy62uo1ItON33RXndlkSHCiJBwd7zr81DybXgWNm9-aQxpJmjnM0BNlJIogNOUiUxVKrKWKVVGcEy7UowEhB3lgRwJB2qVKDiVX5ctjrRGhT0MinD5TFCoKu3YSm1lU6rLymUVA",
+    "reviews" : [
+      {
+        "aspects" : [
+          {
+            "rating" : 0,
+            "type" : "overall"
+          }
+        ],
+        "author_name" : "Sue Cheng",
+        "author_url" : "https://www.google.com/maps/contrib/117731679067592105542/reviews",
+        "language" : "en",
+        "rating" : 1,
+        "relative_time_description" : "4 months ago",
+        "text" : "Very slow service",
+        "time" : 1473167739
+      },
+      {
+        "aspects" : [
+          {
+            "rating" : 0,
+            "type" : "overall"
+          }
+        ],
+        "author_name" : "Bryan Brooks",
+        "author_url" : "https://www.google.com/maps/contrib/114791950052214141857/reviews",
+        "language" : "en",
+        "profile_photo_url" : "//lh6.googleusercontent.com/-lxlD9qUsWfk/AAAAAAAAAAI/AAAAAAAAAjs/gQCxnSinjGM/s128/photo.jpg",
+        "rating" : 1,
+        "relative_time_description" : "6 years ago",
+        "text" : "Gave me a counterfeit $50 and told me \"OH WELL , SORRY  , BUT IT IS NOT OUR RESPONSIBILITY ONCE IT LEAVES THE BANK\" my reply \"So it's my fault for trusting that you have policies and procedures set in place to protect your clients and their employees ?\" They replied SORRY !",
+        "time" : 1289925250
+      },
+      {
+        "aspects" : [
+          {
+            "rating" : 0,
+            "type" : "overall"
+          }
+        ],
+        "author_name" : "A Google User",
+        "language" : "en",
+        "rating" : 1,
+        "relative_time_description" : "5 years ago",
+        "text" : "Wachovia in Brier Creek could teach these folks a lot about customer service!!.  Truely a night and day experience.  I encourage bank employees to visit Wachovia Brier Creek some time.  They will be welcomed and if they go enough Robin will remember their name.  Wachovia Brier Creek made me look forward to going to their bank.  I feel like Wachovia wants and appreciates my bussiness. I feel like the tellers at BB&T branch just do what they have to nothing more.  Customer service is an attitude you have to leave your problems outside the bank it shows when you care and if all else fails sometimes you have to fake it and smile and be nice when you do not feel like it.   I work in customer service and know good service when I receive it.  Is it any wonder Wachovia at Breir Creek has 3x the business as BB&T other people must feel the same.  My company has switched but my account will stay with Wachovia because of customer service at this BB&T.",
+        "time" : 1298663318
+      },
+      {
+        "aspects" : [
+          {
+            "rating" : 2,
+            "type" : "overall"
+          }
+        ],
+        "author_name" : "sakshi bhandari",
+        "author_url" : "https://www.google.com/maps/contrib/104917773431161409754/reviews",
+        "language" : "en",
+        "rating" : 4,
+        "relative_time_description" : "6 months ago",
+        "text" : "",
+        "time" : 1469139874
+      }
+    ],
+    "scope" : "GOOGLE",
+    "types" : [ "bank", "finance", "point_of_interest", "establishment" ],
+    "url" : "https://maps.google.com/?cid=14091757286515521287",
+    "utc_offset" : -300,
+    "vicinity" : "8501 Brier Creek Parkway, Raleigh",
+    "website" : "https://www.bbt.com/bbtdotcom/locator/details/8501_brier_creek_pkwy__raleigh__nc__27617?ReferralSource=GV&CampIDMaj=AKH&CampIDMin=AR&cmpid=3980"
+  },
+  "status" : "OK"
+}
